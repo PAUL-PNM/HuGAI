@@ -2,7 +2,7 @@
 Human Generated Artificial Intelligence - a concept for an Open Planetary AI Compute Grid.
 <img width="1024" height="1536" alt="ChatGPT Image Mar 6, 2026, 12_20_32 PM" src="https://github.com/user-attachments/assets/02346f3e-3147-47a3-806b-7ab98a66047c" />
 
-Imagine this: millions of computers, scattered all over the world, working together as one massive AI supercomputer. That’s the idea behind the HuGAI an Open Planetary AI Compute Grid—a global, open network that taps into the power of idle machines everywhere.
+Imagine this: millions of computers, scattered all over the world, working together as one massive AI supercomputer. That’s the idea behind "HuGAI" an Open Planetary AI Compute Grid—a global, open network that taps into the power of idle machines everywhere.
 
 We’ve seen this kind of thing before with projects like Folding@home and SETI@home. People donated spare processing power for science. This time, it’s all about AI.
 
